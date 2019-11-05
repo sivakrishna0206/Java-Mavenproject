@@ -15,6 +15,7 @@
 5) cd bin
 6) ./startup.sh
 7) ./shutdown.sh
+8) ./startup.sh
 # Post build task script
 1) sudo cd /root/apache-tomcat-9.0.27/bin
 2) sudo /root/apache-tomcat-9.0.27/bin/shutdown.sh
